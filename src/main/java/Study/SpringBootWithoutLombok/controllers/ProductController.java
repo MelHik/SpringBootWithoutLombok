@@ -1,4 +1,4 @@
-package Study.SpringBootWithoutLombok.controller;
+package Study.SpringBootWithoutLombok.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
